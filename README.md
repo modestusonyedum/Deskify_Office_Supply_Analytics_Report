@@ -9,15 +9,6 @@ This project analyzes its data to uncover insights that support smarter business
 | <h1>**14.74M**</h1> | <h1>**1.52M**</h1> | <h1>**5,496**</h1> | <h1>**795**</h1> | <h1>**10.33%**</h1> |
 
 
-## Table of Contents
-- [Problem Statement, Aim and Datasource](#problem-statement)
-- [Data Model, Analytical Aproach](#data-model)
-- [1. Customer Analytics](#1.customer-analytics)
-- [Analytical Approach](#analytical-approach)
-- [How to Use](#how-to-use)
-
-
-
 ## Problem Statement
 
 The organization currently depends on Excel for compiling, analyzing, and reporting its monthly sales and transaction data. It has become increasingly cumbersome and time-consuming due to the complexity of the data and the high volume of transactions processed each month. The reporting process involves manual data entry and consolidation from multiple sources, which introduces errors and inconsistencies.
