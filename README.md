@@ -12,7 +12,7 @@ This project analyzes its data to uncover insights that support smarter business
 ## Table of Contents
 - [Problem Statement, Aim and Datasource](#problem-statement)
 - [Data Model, Analytical Aproach](#data-model)
-- [How to Use](#how-to-use)
+- [1. Customer Analytics](#1.customer-analytics)
 - [Analytical Approach](#analytical-approach)
 - [How to Use](#how-to-use)
 
