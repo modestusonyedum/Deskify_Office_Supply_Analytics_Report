@@ -38,13 +38,6 @@ The data was cleaned and modeled into a star schema, ensuring it's optimized for
 > Note: This dataset is fictional and intended for educational and portfolio purposes only. No real customer data is used.
 
 
-### Customer Analysis
-
-1. Which customer segments generated the highest profit?
-2. How does profit vary across different customer segments and regions?
-3. Which 5 customers are responsible for the largest purchases?
-4. Based on the subcategory, how do they each contribute to profitability?
-
 
 ## Data Model
 The data model uses a star schema with one fact table **(TransactionFact)** linked to five dimension tables for **customer, product, order, location, and calendar** data. One-to-many relationships with single-direction filtering ensure clear and efficient analysis. A dedicated Calculated Measures table centralizes DAX calculations for easier maintenance.
