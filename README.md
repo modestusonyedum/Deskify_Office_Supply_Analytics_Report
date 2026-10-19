@@ -26,7 +26,7 @@ The data was cleaned and modeled into a star schema, ensuring it's optimized for
 
 
 > [!WARNING]
-> Note: This dataset is fictional and intended for educational and portfolio purposes only. No real customer data is used.
+> Note: This dataset is fictional and intended for portfolio purposes only. No real customer data is used.
 
 
 
