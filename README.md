@@ -4,7 +4,7 @@ Deskify Office Supply Co. is a retailer of office supplies, technology accessori
 This project analyzes its data to uncover insights that support smarter business decisions.
 
 
-![](KPIs.png)
+![](Visuals/KPIs.png)
 
 
 ## Problem Statement
