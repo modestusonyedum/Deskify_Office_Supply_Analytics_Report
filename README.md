@@ -4,9 +4,7 @@ Deskify Office Supply Co. is a retailer of office supplies, technology accessori
 This project analyzes its data to uncover insights that support smarter business decisions.
 
 
-| Total Revenue | Total Profit | Total Orders | Total Customers | Profit/Loss Margin |
-| :---: | :---: | :---: | :---: | :---: |
-| <h1>**14.74M**</h1> | <h1>**1.52M**</h1> | <h1>**5,496**</h1> | <h1>**795**</h1> | <h1>**10.33%**</h1> |
+![](KPIs.png)
 
 
 ## Problem Statement
