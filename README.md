@@ -99,11 +99,11 @@ This section focuses on the product performance.
 
 **Recommendation**
 
-•	Regular Air handles 74.11% of orders, creating over-reliance on one shipping method. Renegotiate carrier rates and shift non-urgent deliveries to Delivery Truck to reduce costs and minimise operational risks.
-•	Allocate more marketing spend and inventory to Office Supplies, which contributes 65% of category profit (985K), while maintaining Furniture’s profitability (22%) and exploring ways to improve Technology (14%).
-•	Discontinue the loss-making Copiers sub-category as it makes loss every year.
-•	Shift marketing and inventory budget away from the bottom performers like Machines, Fasteners and Copiers toward the two clear winners Binders, Paper and Furnishings.
-•	Don’t over rely on your top 3 named customers. Diversify the customer base like setting a concentration target and growing the mid-tier
+- Regular Air handles 74.11% of orders, creating over-reliance on one shipping method. Renegotiate carrier rates and shift non-urgent deliveries to Delivery Truck to reduce costs and minimise operational risks.
+- Allocate more marketing spend and inventory to Office Supplies, which contributes 65% of category profit (985K), while maintaining Furniture’s profitability (22%) and exploring ways to improve Technology (14%).
+- Discontinue the loss-making Copiers sub-category as it makes loss every year.
+- Shift marketing and inventory budget away from the bottom performers like Machines, Fasteners and Copiers toward the two clear winners Binders, Paper and Furnishings.
+- Don’t over rely on your top 3 named customers. Diversify the customer base like setting a concentration target and growing the mid-tier
 
 
 
