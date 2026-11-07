@@ -94,7 +94,7 @@ This section focuses on the product performance.
 
 - Operational data further indicates significant shipping cost pressure due to reliance on **air freight (nearly 90% of orders)**, which likely diminishes margins and limits scale efficiency.
 
-- Seasonal trends reveal noticeable fluctuations in monthly performance, with **October (177K) and January (174K)** as the highest-earning months, and **August (81K)** the weakest. These fluctuations likely correlate with procurement cycles, budgeting periods, and business purchasing behaviors rather than consumer-driven trends. 
+- Seasonal trends reveal noticeable fluctuations in monthly performance, with **October (177K) and January (161K)** as the highest-earning months, and **August (81K)** the weakest. These fluctuations likely correlate with procurement cycles, budgeting periods, and business purchasing behaviors rather than consumer-driven trends. 
 
 
 **Recommendation**
